@@ -1,0 +1,33 @@
+#open_search_folder_ns 
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(26,26,26,.9);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    z-index: 1020;
+    color: white
+}
+
+#close 
+{
+  display: none
+}
+
+#closeDiv 
+{
+  position: absolute;
+  right: 78px;
+  color: #fff;
+  font-size: 45px;
+  z-index: 1020;
+  cursor: pointer;
+}
+
+.success_css 
+{
+  color: green;
+  font-size: 20px;
+}

@@ -1,0 +1,88 @@
+﻿[
+    
+    {
+        "id": 1,
+        "name": "Chateau Rouge",
+        "stars": 3,
+        "photo": "1.jpg",
+        "description": "Located in Red Lodge, Chateau Rouge provides accommodations with free WiFi and seating area.Some of the units include cable flat-screen TV, a fully equipped kitchen with a microwave, and a private bathroom with a hot tub and a a hairdryer.The condo hotel offers a hot tub.Guests can also relax in the garden, beside the indoor pool, or in the shared lounge area.The nearest airport is Billings Logan International Airport, 101.4 km from Chateau Rouge.Couples in particular like the location – they rated it 9.0 for a two-person trip.This property is also rated for the best value in Red Lodge! Guests are getting more for their money when compared to other properties in this city.",
+        "city": "Red Lodge",
+        "status": true
+    },
+
+    {
+        "id": 2,
+        "name": "Hood River Hotel",
+        "stars": 3,
+        "photo": "2.jpg",
+        "description": "One of our top picks in Hood River. Offering a sauna and a ski pass sales point, Hood River Hotel is the oldest hotel in Hood River, Oregon. Guests can enjoy the on-site restaurant, Broder Øst, which serves Scandinavian cuisine.       All rooms include a flat-screen TV. Some rooms include a seating area to relax in after a busy day. Certain rooms feature views of the river or city. Each room has a private bathroom. Hood River Hotel features free WiFi throughout the property.There is a 24-hour front desk, a shared lounge with sofas, chairs, large community tables, and a fireplace, and gift shop at the property.A selection of activities are offered in the area, such as skiing, golfing and windsurfing. The nearest airport is Portland International Airport, 53 mi from the property.",
+        "city": "Hood River",
+        "status": true
+    },
+
+    {
+        "id": 3,
+        "name": "Antler Inn",
+        "stars": 2,
+        "photo": "3.jpg",
+        "description": "One of our top picks in Jackson. This hotel in Jackson Hole, Wyoming features a large hot tub, a gym and traditionally styled rooms with free Wi-Fi.Jackson Hole Mountain Resort is 20 minutes' drive from the inn.A coffee maker, small fridge and a work desk are standard in every Antler Inn room. Cable TV with HBO movie channels is also included.Free ski shuttles are provided in the winter seasons. Jackson Hole Antler Inn also offers on-site laundry facilities and free parking.Grand Teton National Park is a 20-minute drive from this inn. The town center of Jackson is 211 m from Antler Inn.This is our guests' favorite part of Jackson, according to independent reviews.This property also has one of the top-rated locations in Jackson! Guests are happier about it compared to other properties in the area.",
+        "city": "Jackson",
+        "status": true
+    },
+
+    {
+        "id": 4,
+        "name": "Westminster Hotel",
+        "stars": 4,
+        "photo": "4.jpg",
+        "description": "Conveniently located just off Eisenhower Parkway on State Route 10 in Livingston, New Jersey, this hotel offers elegant guest rooms, an on-site restaurant and free Wi-Fi access throughout the hotel.Westminster Hotel features a free shuttle service to destinations within an 8 km radius of the hotel. Guests can experience upscale shopping at the nearby Mall at Short Hills, go hiking at the Eagle Rock Reservation or play a round of golf at the Essex Golf Center. Public transportation is available just outside the hotel with access to Manhattan.Guests can keep up with their fitness routine in Westminster Hotel's state-of-the-art fitness center. Go for a swim in the heated indoor pool or soak in the hot tub. After a long day, relax with a massage or choose from a variety of other spa services.The comprehensive green program at the Westminster includes a linen reuse program, energy saving light bulbs and organic in-room amenities. Other environmentally-friendly features include bamboo-based materials as well as a full recycling program for paper, glass, plastic and cardboard.",
+        "city": "Livingston",
+        "status": true
+    },
+
+    {
+        "id": 5,
+        "name": "Nittany Lion Inn",
+        "stars": 5,
+        "photo": "5.jpg",
+        "description": "This inn is located on the Pennsylvania State University campus and features free shuttle service to the nearby University Park Airport and local attractions. On-site dining is available.Each room at the Nittany Lion Inn features cable TV, an private bathroom, and an iPod docking station. Some suites include a seating area, microwave, and refrigerator. Free Wi-Fi is accessible in every room.Guests can use the fitness center at the State College Nittany Lion Inn. The reception is open 24-hours.The Dining Room serves American dishes for breakfast, lunch, and dinner. Sunday brunch and a Friday seafood buffet are provided. Whiskers is a casual pub-style restaurant with late night dining and full bar.Beaver Stadium is 5 minutes’ drive from the inn. Penn State Golf Course is 6.4 km away.This property also has one of the top-rated locations in State College! Guests are happier about it compared to other properties in the area.",
+        "city": "State College",
+        "status": true
+    },
+   {
+        "id": 6,
+        "name": "Metropol Hotel",
+        "stars": 5,
+        "photo": "6.jpg",
+        "description": "Featuring free WiFi, Metropol Hotel offers accommodations in Yerevan. Guests can enjoy the on-site bar. Free private parking is available on site. Each room at this hotel is air conditioned and features a flat-screen TV. Certain units include a seating area to relax in after a busy day. You will find a kettle in the room. The rooms include a private bathroom fitted with a bidet. For your comfort, you will find bathrobes and slippers. Superior rooms feature a spa bath or a hot tub. There is a 24-hour front desk, a cash machine, a business center and gift shop at the property.",
+        "city": "Yerevan",
+        "status": true
+    },
+   {
+        "id": 7,
+        "name": "Venezia Palazzo Hotel",
+        "stars": 4,
+        "photo": "7.jpg",
+        "description": "Offering an indoor pool, a sauna and a hot tub, and a restaurant, Venezia Palazzo Hotel is located in Yerevan, 500 m fro the Yerevan Zoo. Free WiFi access is available.Each room here will provide you with a TV, air conditioning and and a refrigerator. Private bathroom also comes with a shower and a bath. Extras include a seating area, satellite channels and cable channels.The on-site restaurant serves European cuisine, and a variety of drinks is offered at the bar. Other facilities offered at the property include grocery deliveries, dry cleaning and an ironing service. The property offers free parking.",
+        "city": "Yerevan",
+        "status": true
+    },
+   {
+        "id": 8,
+        "name": "Multi Grand Pharaon Hotel",
+        "stars": 5,
+        "photo": "8.jpg",
+        "description": "Multi Grand Pharaon Hotel offers accommodations in Yerevan. Guests can enjoy the on-site bar. Free private parking is available on site. Each room at this hotel is air conditioned and features a flat-screen TV. Certain units include a seating area to relax in after a busy day. You will find a kettle in the room. The rooms include a private bathroom fitted with a bidet. For your comfort, you will find bathrobes and slippers. Superior rooms feature a spa bath or a hot tub. There is a 24-hour front desk, a cash machine, a business center and gift shop at the property.",
+        "city": "Yerevan",
+        "status": true
+    },
+   {
+        "id": 9,
+        "name": "Latar Hotel Complex",
+        "stars": 5,
+        "photo": "9.jpg",
+        "description": "This luxury hotel is located 6.2 mi from Yerevan city center and offers a large outdoor swimming pool. Free Wi-Fi, a sauna and a fitness center are also featured at Latar Hotel Complex.The elegant, air-conditioned rooms offer warm-colored interiors and classic-style décor. Every room includes a TV, a mini-bar and a private bathroom with a hairdryer and free toiletries.Armenian and European cuisine is served in Latar Restaurant. The on-site bakery offers a selection of traditional Armenian pastry. Barbecue facilities are also on site.",
+        "city": "Yerevan",
+        "status": true
+    }
+]
